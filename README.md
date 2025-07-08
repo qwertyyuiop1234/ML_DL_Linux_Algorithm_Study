@@ -1,4 +1,4 @@
-# Machine-Learning-Deep-Learning-Study
+# ML_DL_Linux_Algorithm_Study
 ## homework (2025-07-08 ~ 2025-07-16)
 ### ML
 - chapter 05 - 1 까지
